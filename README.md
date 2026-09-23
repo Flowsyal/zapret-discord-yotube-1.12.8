@@ -1,4 +1,5 @@
-# 🏷️ [Название проекта](https://github.com) 📺
+# 🏷️ [zapret-discord-yotube-1.12.8
+]([https://github.com](https://github.com/Flowsyal/zapret-discord-yotube-1.12.8)) 📺
 
 > **NEW:** Какое-то важное объявление или ссылка на Telegram.
 > Альтернативная ссылка или зеркало.
